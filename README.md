@@ -2,7 +2,7 @@
 
 I am Working with mobile application, specially @android @Flutter. My goal is to always build products that provide pixel-perfect, performance experiences.
 
-- ⚙️ I work on `.swift`, `.java`, `.dart`, `.kt`, and `.js`. 
+- ⚙️ I work on `.java`, `.dart`, `.kt`, and `.js`. 
 - 👯 I’m mostly active on **Android** and **Flutter** community.
 - 🔧 I use mostly Android Studio, VSCode, git.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
