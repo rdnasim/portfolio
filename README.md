@@ -9,7 +9,7 @@ I am Working with mobile application, specially @android @Flutter. My goal is to
 - 📖 Working on some of opensource projects- [flutter_bkash](https://github.com/codeboxrcodehub/flutter-bkash), [bangla-apis](https://github.com/rdnasim/bangla-apis)
 - 🔭 I’m currently open for work and employment opportunities (freelance/remote/relocation)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rdnasim/) or [mail](mailto:iam.riadul@gmail.com) or [twitter](https://twitter.com/rdnasim)
-- 😄 I write blogs here: [blog](https://riadul.com) or visit my portfolio [riadul.com](https://www.riadul.com/)
+- 😄 I write blogs here: [blog](https://riadul.com/blog) or visit my portfolio [riadul.com](https://www.riadul.com/)
 
 ![](https://komarev.com/ghpvc/?username=rdnasim)
 
