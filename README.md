@@ -3,7 +3,7 @@
 I am Working with mobile application, specially @android @Flutter. My goal is to always build products that provide pixel-perfect, performance experiences.
 
 - ⚙️ I work on `.java`, `.dart`, `.kt`, and `.js`. 
-- 👯 I’m mostly active on **Android** and **Flutter** community.
+- 👯 I’m mostly active on **Android**, **Jetpack Compose** and **Flutter** community.
 - 🔧 I use mostly Android Studio, VSCode, git.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 📖 Working on some of opensource projects- [expirydb](https://github.com/rdnasim/expirydb), [flutter_bkash](https://github.com/codeboxrcodehub/flutter-bkash), [bangla-apis](https://github.com/rdnasim/bangla-apis)
